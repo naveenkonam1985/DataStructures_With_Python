@@ -24,4 +24,7 @@ Stacks inserts and deletes data from one end only. It follows the principle of L
 
 Stacks and Queues can be implemented with arrays or Linked lists. 
 
+## Trees
+Trees are nonlinear hierarchical data structure consisting nodes connected by edges.
+
 
