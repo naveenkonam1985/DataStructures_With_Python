@@ -33,6 +33,10 @@ class Queue:
         pass
 
 
+    def clear(self):
+        pass
+        
+
     def __contains__(self, elem):
         pass
 
