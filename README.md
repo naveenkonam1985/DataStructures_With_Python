@@ -27,4 +27,6 @@ Stacks and Queues can be implemented with arrays or Linked lists.
 ## Trees
 Trees are nonlinear hierarchical data structure consisting nodes connected by edges.
 
+Trees consist of Nodes in a heirarchical format. Nodes form a parent-child relationship between them. Root Node is the first node from which all other nodes will descend.
+
 
