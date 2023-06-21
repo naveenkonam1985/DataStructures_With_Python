@@ -29,4 +29,6 @@ Trees are nonlinear hierarchical data structure consisting nodes connected by ed
 
 Trees consist of Nodes in a heirarchical format. Nodes form a parent-child relationship between them. Root Node is the first node from which all other nodes will descend.
 
+A binary tree is a collection of nodes, where the nodes in the tree can have zero, one, or two child nodes.
+
 
