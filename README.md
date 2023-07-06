@@ -46,7 +46,13 @@ Ancestor: A node's parent and up to the root.\
 Path: The sequence of edges that connect a node and its descendants.\
 Depth: The depth of a node equals the length of the path connectinf it to the root.\
 Height: The length of the longest path in the tree.\
-Subtree: The tree fromed by a node and descendants.\
+Subtree: The tree fromed by a node and descendants.
 
 A binary tree is a collection of nodes, where the nodes in the tree can have zero, one, or two child nodes.
+
+Tree Traversals:
+*  Pre-Order Traversal
+*  In-Order Traversal
+*  Post-Order Traversal
+*  Level-Order Traversal
 
