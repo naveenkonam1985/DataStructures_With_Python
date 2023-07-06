@@ -31,4 +31,20 @@ Trees consist of Nodes in a heirarchical format. Nodes form a parent-child relat
 
 A binary tree is a collection of nodes, where the nodes in the tree can have zero, one, or two child nodes.
 
+Tree Terminology
+
+Node: An item stored in a tree.
+Root: The topmost node in a tree. It is the only node     without parent.
+Child: A node immediatley below and directly connected to a given node.
+Parent: A node immediately above and connected to a give  node.
+Siblings: The children nodes of a common parent.
+Leaf: A node that has no children.
+Interior node: A node that has atleast one child.
+Edge/Branch : The line that connects parent t its child.
+Descendant: A node's children, and down the line.
+Ancestor: A node's parent and up to the root.
+Path: The sequence of edges that connect a node and its descendants.
+Depth: The depth of a node equals the length of the path connectinf it to the root.
+Height: The length of the longest path in the tree.
+Subtree: The tree fromed by a node and descendants.
 
