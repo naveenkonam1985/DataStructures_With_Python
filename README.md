@@ -27,9 +27,7 @@ Stacks and Queues can be implemented with arrays or Linked lists.
 ## Trees
 Trees are nonlinear hierarchical data structure consisting nodes connected by edges.
 
-Trees consist of Nodes in a heirarchical format. Nodes form a parent-child relationship between them. Root Node is the first node from which all other nodes will descend. A subtree is a tree whose nodes descend from some other tree.
-
-A binary tree is a collection of nodes, where the nodes in the tree can have zero, one, or two child nodes.
+Trees consist of Nodes in a heirarchical format. Nodes form a parent-child relationship between them. Root Node is the first node from which all other nodes will descend.
 
 Tree Terminology
 
@@ -47,4 +45,6 @@ Path: The sequence of edges that connect a node and its descendants.
 Depth: The depth of a node equals the length of the path connectinf it to the root.
 Height: The length of the longest path in the tree.
 Subtree: The tree fromed by a node and descendants.
+
+A binary tree is a collection of nodes, where the nodes in the tree can have zero, one, or two child nodes.
 
